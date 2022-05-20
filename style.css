@@ -1,0 +1,48 @@
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    background-image: linear-gradient(270deg, #FF0099 2.37%, rgba(223, 28, 166, 0.6) 18.53%, rgba(190, 57, 179, 0.6) 35.22%, rgba(122, 117, 206, 0.7) 56.22%, rgba(68, 165, 228, 0.6) 75.07%, rgba(68, 165, 228, 0.6) 90.15%, #00E0FF 105.76%);
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+}
+.quadro1{
+    background-image: linear-gradient(180deg, #00FFC2 0%, #00FEC6 36.46%, #00F0FF 100%);
+    border-radius: 5px;
+    color: white;
+    padding: 40px;
+    margin-bottom: 25px;
+} 
+
+.quadro2{
+    background-image: linear-gradient(180deg, #0057FF 0%, rgba(20, 0, 254, 0.6) 42.01%, #AD00FF 100%);
+    border-radius: 5px;
+    color: white;
+    padding: 40px;
+    margin-bottom: 25px;
+} 
+
+
+.topicos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.autor{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color:bisque
+}
+
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
